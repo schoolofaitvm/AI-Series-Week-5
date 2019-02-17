@@ -14,7 +14,7 @@ In this week, we discussed about the *'Linear algebra for Machine learning'* , c
 
 - [Numpy and Pandas: Exercise notebook](https://github.com/schoolofaitvm/AI-Series-Week-5/blob/master/Numpy_and_Pandas%20-%20students.ipynb)
 
-- [Solution](https://github.com/schoolofaitvm/AI-Series-Week-5/blob/master/Numpy_and_Pandas.ipynb 
+- [Solution](https://github.com/schoolofaitvm/AI-Series-Week-5/blob/master/Numpy_and_Pandas.ipynb) 
 
   *Authors*: Nevin Baiju and Aravind Venugopal.
 
